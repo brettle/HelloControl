@@ -1,2 +1,3 @@
 Please, my name is Dean.
 Conflicting line
+my additions after fixing conflict
